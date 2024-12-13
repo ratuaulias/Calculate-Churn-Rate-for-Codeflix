@@ -1,6 +1,6 @@
 # Calculate-Churn-Rate-for-Codeflix
 
-Introduction
+# Introduction
 As Codeflix approaches its fourth month since launch, management seeks to understand subscription churn rates. The marketing department is particularly interested in comparing churn between two user segments from distinct acquisition channels. A dataset has been provided for analysis, aiming to drive informed strategies and sustainable growth.
 
 The dataset contains one SQL table, subscriptions. Within the table, there are 4 columns:
